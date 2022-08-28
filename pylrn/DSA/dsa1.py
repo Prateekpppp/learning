@@ -166,7 +166,8 @@ def pattern13():
         if i >=row:
             k-=1
         print('\r')
-pattern12()
+# pattern12()
+print('test')
 
 
 
